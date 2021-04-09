@@ -56,8 +56,6 @@
 
 ## Projects
 
-* [BlinkBultinLed](./BlinkBultinLed)
-* [HelloWorld](./HelloWorld) 
-* [WifiClientWithAutoReconnect ](./WifiClientWithAutoReconnect) 
-
-
+* [BlinkBultinLed](./BlinkBultinLed) - Make blink the internal led.
+* [HelloWorld](./HelloWorld) - Basic Serial print.
+* [WifiClientWithAutoReconnect ](./WifiClientWithAutoReconnect) - WiFi client with auto-reconnect.
