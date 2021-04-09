@@ -49,5 +49,10 @@ void setup()
 void loop()
 {
     log_i("In loop");
+    if (WiFi.isConnected()) {
+        String ssid = WiFi.SSID();
+        int8_t rssi = WiFi.RSSI();
+        log_i("WiFi connected (%s) (%i dBm)", ssid.c_str(), rssi);
+    }
     delay(1000);
 }
