@@ -27,7 +27,7 @@
     # create project directory
     mkdir HelloWorld
     cd HelloWorld
-
+    
     # init project
     pio init \
         --board ttgo-lora32-v21 \
@@ -38,11 +38,17 @@
     # build
     pio run
 
-    # upload to esp32
+    # upload
     pio run -t upload
     
     # monitor
     pio run -t monitor
 
+    # upload & monitor
+    pio run -t upload -t monitor
+    
     # list all targets
     pio run --list-targets
+    
+    # list all devices
+    pio device list
