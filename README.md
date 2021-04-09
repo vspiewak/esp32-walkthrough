@@ -52,3 +52,12 @@
     
     # list all devices
     pio device list
+
+
+## Projects
+
+* [BlinkBultinLed](./BlinkBultinLed)
+* [HelloWorld](./HelloWorld) 
+* [WifiClientWithAutoReconnect ](./WifiClientWithAutoReconnect) 
+
+
