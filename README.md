@@ -10,6 +10,7 @@ My journey on ESP32 with the `LILYGO® TTGO LoRa32 V2.1_1.6 Version 868Mhz`
 * [Preferences](./Preferences) - Store data in NVS memory using Preference.h.
 * [SPIFFS](./SPIFFS) - Store data in a SPIFFS partition.
 * [WiFi Client](./WiFiClient) - WiFi client with auto-reconnect.
+* [WiFi Captive Portal](./WiFiCaptivePortal) - WiFi AP with Captive Portal.
   
 
 ## Setup
@@ -72,6 +73,6 @@ My journey on ESP32 with the `LILYGO® TTGO LoRa32 V2.1_1.6 Version 868Mhz`
 
     # upload data/ to SPIFFS
     pio run -t uploadfs
-    
+
     # erase flash
     pio run -t erase
