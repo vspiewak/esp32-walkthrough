@@ -7,6 +7,7 @@ My journey on ESP32 with the `LILYGO® TTGO LoRa32 V2.1_1.6 Version 868Mhz`
 
 * [Blink Bultin Led](./BlinkBultinLed) - Make blink the internal led.
 * [Hello World](./HelloWorld) - Basic Serial print.
+* [Preferences](./Preferences) - Store data in NVS memory using Preference.h.
 * [WiFi Client](./WiFiClient) - WiFi client with auto-reconnect.
   
 
