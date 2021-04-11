@@ -6,10 +6,9 @@ Preferences preferences;
 void setup()
 {
 
-
     Serial.begin(115200);
     Serial.println();
-    
+
     //nvs_flash_erase(); // erase the NVS partition and...
     //nvs_flash_init(); // initialize the NVS partition.
 
