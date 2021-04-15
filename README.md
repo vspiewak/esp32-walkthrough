@@ -8,8 +8,9 @@ My journey on ESP32 with the `LILYGO® TTGO LoRa32 V2.1_1.6 Version 868Mhz`
 * [Blink Bultin Led](./BlinkBultinLed) - Make blink the internal led.
 * [Hello World](./HelloWorld) - Basic Serial print.
 * [Tasks](./Tasks) - MultiTasking sample.
-* [Preferences](./Preferences) - Store data in NVS memory using Preference.h.
+* [Preferences](./Preferences) - Store data in NVS memory using Preferences.h.
 * [SPIFFS](./SPIFFS) - Store data in a SPIFFS partition.
+* [FastReset](./FastReset) - Fast Reset OOP using Tasks & Preferences.h.
 * [WiFi Client](./WiFiClient) - WiFi client with auto-reconnect.
 * [WiFi Captive Portal](./WiFiCaptivePortal) - WiFi AP with Captive Portal.
   
