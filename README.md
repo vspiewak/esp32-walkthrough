@@ -7,6 +7,7 @@ My journey on ESP32 with the `LILYGO® TTGO LoRa32 V2.1_1.6 Version 868Mhz`
 
 * [Blink Bultin Led](./BlinkBultinLed) - Make blink the internal led.
 * [Hello World](./HelloWorld) - Basic Serial print.
+* [Hall Sensor](./HallSensor) - Get Hall sensor value.
 * [OLED with GFX](./OLEDwithGFX) - Play with OLED screen using GFX library.
 * [Hibernate](./Hibernate) - Hibernate ESP32 with timer wake-up.
 * [Tasks](./Tasks) - MultiTasking sample.
