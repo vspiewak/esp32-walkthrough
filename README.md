@@ -9,6 +9,7 @@ My journey on ESP32 with the `LILYGO® TTGO LoRa32 V2.1_1.6 Version 868Mhz`
 * [Hello World](./HelloWorld) - Basic Serial print.
 * [Hall Sensor](./HallSensor) - Get Hall sensor value.
 * [OLED with GFX](./OLEDwithGFX) - Play with OLED screen using GFX library.
+* [QR Code](./QRCode) - Display QR Code on Serial & OLED screen.
 * [Hibernate](./Hibernate) - Hibernate ESP32 with timer wake-up.
 * [Tasks](./Tasks) - MultiTasking sample.
 * [Preferences](./Preferences) - Store data in NVS memory using Preferences.h.
