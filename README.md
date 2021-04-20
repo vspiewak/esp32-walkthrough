@@ -1,7 +1,8 @@
 # ESP32 Walkthrough
 
-My journey on ESP32 with the `LILYGO® TTGO LoRa32 V2.1_1.6 Version 868Mhz`
+My journey on ESP32 with the `LILYGO® TTGO LoRa32 V2.1 1.6 Version 868Mhz`
 
+![board pinout](./assets/ttgo.lora.v2.1.1.6.jpg "TTGO LoRa32 V2.1 1.6 Pinout")
 
 ## Projects
 
