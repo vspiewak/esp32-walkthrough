@@ -2,6 +2,12 @@
 #include <SPI.h>
 #include <Adafruit_BMP280.h>
 
+// To plug:
+// VCC to V3.5
+// GND to GND
+// SDL to IO22 
+// SDA to IO21
+
 /*
 #define BMP_SCK  (13)
 #define BMP_MISO (12)
