@@ -45,7 +45,7 @@ void setup()
 	display.clearDisplay();
 
 	// draw bitmap
-	display.drawBitmap(0, 0, dailybrainBitmap, 128, 64, WHITE);
+	display.drawBitmap(0, 0, dailybrainBitmap, SCREEN_WIDTH, SCREEN_HEIGHT, WHITE);
 
 	// display buffer
 	display.display();
@@ -87,8 +87,14 @@ void setup()
 	// clear buffer
 	display.clearDisplay();
 
-	// draw a rect
-	display.drawRect(0, 0, 4, 4, WHITE);
+	// draw full screen rect
+	display.fillRect(0, 0, SCREEN_WIDTH, SCREEN_HEIGHT, WHITE);
+
+	// display buffer
+	display.display();
+
+	// delay 5s
+	delay(5000);
 
 	// display buffer
 	display.display();
