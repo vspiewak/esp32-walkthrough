@@ -17,6 +17,7 @@ My journey on ESP32 with the `LILYGO® TTGO LoRa32 V2.1 1.6 Version 868Mhz`
 * [Preferences](./Preferences) - Store data in NVS memory using Preferences.h.
 * [SPIFFS](./SPIFFS) - Store data in a SPIFFS partition.
 * [Fast Reset](./FastReset) - Fast Reset OOP using Tasks & Preferences.h.
+* [Blink Led Util](./BlinkLedUtil) - Blink Led OOP using Tasks.
 * [WiFi Scan](./WiFiScan) - WiFi network scan.
 * [WiFi Client](./WiFiClient) - WiFi client with auto-reconnect.
 * [WiFi Captive Portal](./WiFiCaptivePortal) - WiFi AP with Captive Portal.
